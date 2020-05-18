@@ -51,6 +51,11 @@ p {
   color: teal;
 }
 
+.connectLabel {
+  color: dimgray;
+  text-emphasis: active;
+}
+
 .containerMain {
   background-color: lightgray;
 }
