@@ -23,7 +23,7 @@ Code Style
 <!-- If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -->
 
 Screenshots
-= https://github.com/KarazKOS/Code-Refactor/issues/1#issue-618732677
+= https://github.com/KarazKOS/Responsive-Portfolio/issues/1#issue-621502133
 
 Tech/framework used
 = Bootstrap
