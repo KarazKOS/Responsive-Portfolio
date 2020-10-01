@@ -81,3 +81,9 @@ a:hover.text-sm {
   color: darkgray;
   text-decoration: none;
 }
+
+.btn {
+  color: white;
+  background-color: teal;
+  margin-top: 1em;
+}
